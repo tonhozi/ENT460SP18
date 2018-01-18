@@ -1,9 +1,0 @@
-name: ENT460 - Creating the Enterprise
-output_dir: "."
-navbar:
-  title: "Menu"
-  left:
-    - text: "Description"
-      href: index.html
-    - text: "Email Prof. Dr. Pedro T. de Oliveira"
-      href: mailto:pt9t5@umkc.edu
