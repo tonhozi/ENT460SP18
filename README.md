@@ -1,2 +1,2 @@
-# ENT460SP18
-ENT 460 Course Spring 2018
+# ENT361SP18
+ENT 361 Course Spring 2018
